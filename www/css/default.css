@@ -1,0 +1,35 @@
+
+        html,body{margin:0;padding:0;}
+        header {width:100%;}
+
+        nav {
+            background: aliceblue;
+            margin-left:-12em;
+          }
+        nav:hover {margin:0;}
+        nav ul {padding:25px;}
+
+          img {border:7px solid black;padding:5px;
+            width: 300px;
+          }
+
+          article {
+            margin-left: 3rem;
+            margin-top: 2rem;
+                  }
+
+
+          h1 {
+            text-align: center;
+            background: blue;
+            color: white;
+          }
+        footer{width:100%;
+               background-color: aliceblue;
+                text-align: center;
+                border-top:0.1rem solid black;}
+table {margin-top: 2rem;}
+table caption {margin:0.5rem 0; font-weight:bold;}
+table,tr,th,td{border:1px solid black;border-collapse:collapse;}
+.ingreds {text-align: left;padding-right:2rem; padding-left:1em;  }
+.amount  {text-align: center;   }
